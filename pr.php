@@ -1,3 +1,3 @@
 <?php 
-phpinfo(); //teste 2
+phpinfo(); //teste 2 uru!
 ?>
